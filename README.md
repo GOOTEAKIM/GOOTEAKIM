@@ -1,6 +1,3 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
 <div align=center>
 <!-- Introduce -->
 <h3 align="center">👋 Hello! I'm GOOTEA KIM!</h3>
@@ -63,7 +60,3 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOOTEAKIM&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOOTEAKIM&hide=jupyter%20notebook&layout=compact) -->
-
-
-<!-- Footer Banner -->
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
