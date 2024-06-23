@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Introduce -->
-  <h3 align="center" style="font-size:28px;">👋 Hello! I'm GOOTEA KIM!</h3>
+  <h3 align="center" style="font-size:35px;">👋 Hello! I'm GOOTEA KIM!</h3>
 
   <br/>
 
   <!-- Education -->  
-  <strong style="font-size:20px;">:star: Education :star:</strong>
+  <strong style="font-size:30px;">:star: Education :star:</strong>
   <p text-align="center">
   :mortar_board: Aeronautical Mechanical Engineering, Hanseo Univ. (2018.3 ~ 2024.2)
   
@@ -14,16 +14,16 @@
   <br/>
 
   <!-- Skills -->
-  <strong style="font-size:20px;">:star: Skills :star:</strong>
+  <strong style="font-size:30px;">:star: Skills :star:</strong>
 
   <div>
-    <p style="font-size:18px;">Language</p>
+    <p style="font-size:25px;">Language</p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   </div>
   <div>
-    <p style="font-size:18px;">Front</p>
+    <p style="font-size:25px;">Front</p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
@@ -34,12 +34,12 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   </div>
   <div>
-    <p style="font-size:18px;">Tools</p>
+    <p style="font-size:25px;">Tools</p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   </div>
   <div>
-    <p style="font-size:18px;">Studying</p>
+    <p style="font-size:25px;">Studying</p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> -->
