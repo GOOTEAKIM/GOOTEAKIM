@@ -33,6 +33,7 @@
     <p>Back</p>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   </div>
   <div>
     <p style="font-size:25px;">Tools</p>
