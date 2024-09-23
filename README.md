@@ -55,10 +55,10 @@
 <!--     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
-  </div> -->
+  </div> 
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOOTEAKIM&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
