@@ -48,7 +48,9 @@
   <div>
     <p style="font-size:25px;">Tools</p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/obsstudio-302E31?style=flat&logo=obsstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   </div>
   <div>
     <p style="font-size:25px;">Studying</p>
