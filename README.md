@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Introduce -->
+  
   <h3 align="center" style="font-size:35px;">👋 Hello! I'm GOOTEA KIM!</h3>
 
   <br/>
