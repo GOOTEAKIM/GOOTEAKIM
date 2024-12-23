@@ -4,7 +4,6 @@
 
   <br/>
 
-  <!-- Education -->  
   <strong style="font-size:30px;">:star: Education :star:</strong>
   <p text-align="center">
   :mortar_board: Aeronautical Mechanical Engineering, Hanseo Univ. (2018.3 ~ 2024.2)
