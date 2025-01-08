@@ -8,7 +8,7 @@
   <p text-align="center">
   :mortar_board: Aeronautical Mechanical Engineering, Hanseo Univ. (2018.3 ~ 2024.2)
   
-  :computer: SSAFY (Samsung Software Academy for Youth) 11th (2024.1 ~ )
+  :computer: SSAFY (Samsung Software Academy for Youth) 11th (2024.1 ~ 2024.12)
   </p>
   <br/>
 
