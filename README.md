@@ -1,8 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size:40px;">👋 Hello! I'm GOOTEA KIM!</h1>
-  <p style="font-size:20px;">Welcome to my GitHub profile!</p>
-  
+  <h1 style="font-size:40px;">👋 Hello! I'm GOOTEA KIM!</h1>  
   <br/>
 
   <!-- Education -->
