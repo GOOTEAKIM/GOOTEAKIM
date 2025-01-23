@@ -5,12 +5,13 @@
   <!-- Education -->
   <h2 style="font-size:30px;">📘 Education</h2>
   <p style="font-size:20px; margin: 10px 0;">
-    🎓 Aeronautical Mechanical Engineering, Hanseo Univ. <br/>
-    <span style="color:gray;">(2018.03 ~ 2024.02)</span>
-  </p>
-  <p style="font-size:20px; margin: 10px 0;">
     💻 SSAFY (Samsung Software Academy for Youth) 11th <br/>
     <span style="color:gray;">(2024.01 ~ 2024.12)</span>  
+  </p>
+  
+  <p style="font-size:20px; margin: 10px 0;">
+    🎓 Aeronautical Mechanical Engineering, Hanseo Univ. <br/>
+    <span style="color:gray;">(2018.03 ~ 2024.02)</span>
   </p>
 
   <br/>
