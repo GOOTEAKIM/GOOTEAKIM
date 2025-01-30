@@ -18,7 +18,7 @@
   <!-- Skills -->
   <h2>🚀 Skills</h2>
   
-  | **Category** | **Skills** |
+  | **Category** | **Tech Stack** |
   |:----------:|:----------:|
   | 💻 Languages | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> |
   | 🛠️ Embedded | <img src="https://img.shields.io/badge/Eclipse%20Mosquitto-3C5280?style=flat&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white"/> |
