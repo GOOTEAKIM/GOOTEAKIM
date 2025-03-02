@@ -14,7 +14,8 @@
   | 🎓 Hanseo University | Aeronautical Mechanical Engineering | 2018.03 ~ 2024.02 |
 
   <br/>
-
+  
+  <!-- Skills -->
   <h2>🚀 Skills</h2>
   
   | **Category** | **Tech Stack** |
