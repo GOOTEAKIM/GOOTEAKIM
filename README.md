@@ -5,7 +5,6 @@
   <br/><br/>
 
   
-  <!-- Education -->
   <h2>📘 Education</h2>
 
   | **Institution** | **Details** | **Period** |
