@@ -28,7 +28,7 @@
 
 
 
-  <!-- Studying -->
+
   <div style="margin-bottom:20px;">
     <h2 style="font-size:30px;">📖 Currently Studying</h2>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
