@@ -3,7 +3,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:009f7f,100:006db6&height=120&text=Hi%20there,%20I'm%20GOOTEA%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=40" />
   <br/><br/>
-
   
   <h2>📘 Education</h2>
 
