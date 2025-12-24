@@ -8,7 +8,6 @@
   |:----------:|:----------:|:----------:|
   | 💻 SSAFY | Samsung Software Academy for Youth 11th | 2024.01 ~ 2024.12 |
   | 🎓 Hanseo University | Aeronautical Mechanical Engineering | 2018.03 ~ 2024.02 |
-
   <br/>
   
   <h2>🚀 Skills</h2>
